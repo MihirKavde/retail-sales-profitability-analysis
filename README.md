@@ -108,16 +108,15 @@ The pattern is the same in every category, so it is a company-wide issue and not
 ```
 retail-sales-profitability-analysis/
 ├── README.md
-├── images/
+├── Images/
 │   ├── executive_overview.png
 │   └── profitability_discount_analysis.png
-├── excel/
+├── Excel/
 │   └── store_sales_data_updated.xlsx      # cleaned data + calculated columns + pivot tables
-├── sql/
+├── SQL/
 │   └── retail_sales_project.sql           # all MySQL queries
-└── powerbi/
-    ├── Retail_Store_Analysis_Project.pbix
-    └── Retail_Store_Analysis_Project.pdf  # exported dashboard
+└── PowerBI/
+    └── Retail_Store_Analysis_Project.pbix
 ```
 
 ## How to reproduce
